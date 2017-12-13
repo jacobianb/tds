@@ -1,0 +1,11 @@
+# file is in key:value format
+# use the # for commentary if necessary
+name:Jakey#my name :D
+width:1800#width of the game screen
+height:900#height of the game screen
+cellsize:25#size of cells in pixels (cells are squares)
+fullscreen:2#is fullscreen?
+server:23.95.104.101
+port:12345
+line3:value3   #this is for the expert shit nigga
+alalal:value4
